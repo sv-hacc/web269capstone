@@ -1,0 +1,18 @@
+.carousel .carousel-indicators li {
+	background-color: #F4A55C;
+	opacity: .5;
+}
+
+.carousel .carousel-indicators li:active {
+	background-color: #F4A55C;
+	opacity: 1;
+	
+}
+
+.carousel .carousel-indicators li:hover {
+	background-color: #F4A55C;
+	opacity: 1;
+	
+}
+
+
